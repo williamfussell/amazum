@@ -2,11 +2,13 @@
 ---
 **AMASUM** is a protype of an innovative tool designed to tackle the challenge of analyzing and summarizing vast amounts of customer reviews on e-commerce platforms. Utilizing state-of-the-art open source solutions, it transforms extensive customer feedback into clear, actionable insights for businesses and consumers. 
 
-This project is backed by the ethos of creating individual proprietary AI language models for businesses, emphasizing data democratization, privacy, and efficient ROI. AMASUM is not just a solution for today's e-commerce analytics but a step towards personalized AI tools for diverse business needs, marking a stride in digital innovation and commerce.
+This project is backed by the ethos of creating individual proprietary AI language models for businesses, emphasizing data democratization, privacy, and tangible ROI. **AMASUM** is not just a solution for today's e-commerce analytics but a step towards personalized AI tools for diverse business needs, marking a stride in digital innovation and commerce.
 
 
 ## Getting Started
 ---
+This repo of Jupyter Notebooks and Python Scripts should guide you through a process: from Data Ingestion to Cleaning/Pre-Processing to EDA to Modelling and eventually an Application that shows the power of **AMASUM**.
+
 The notebooks in this repo can be used with other customer review style datasets of course, but there will need to be some re-processing if you do so. For best results you can use the link below that contains the appropriate data to follow along in this notebook.
 https://www.kaggle.com/datasets/williamfussell/amasum-data/data
 
