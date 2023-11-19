@@ -15,9 +15,9 @@ https://www.kaggle.com/datasets/williamfussell/amasum-data/data
 **AMASUM**, at its core is built from fine-tuning **Llama 2(Meta AI’s open source state-of-the-art LLM)**
 You will need to set up a huggingface and OPEN AI account and request access from **META AI** for use of the Llama2 Model.
 If you want to recreate th code follow these links to do so:
-https://openai.com/
-https://huggingface.co/
-https://ai.meta.com/resources/models-and-libraries/llama-downloads/
+- https://openai.com/
+- https://huggingface.co/
+- https://ai.meta.com/resources/models-and-libraries/llama-downloads/
 
 ### Prerequisites
 Please use the **requirements.txt when creating the environment for the following **Notebooks**:
